@@ -3,9 +3,10 @@ package cdn
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/cdn"
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/cdn"
+	"github.com/stretchr/testify/assert"
 )
 
 func ListCdnDomains(t *testing.T) {

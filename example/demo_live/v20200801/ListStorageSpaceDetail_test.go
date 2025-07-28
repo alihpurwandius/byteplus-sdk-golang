@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/live/v20200801"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
+	live_v20200801 "github.com/alihpurwandius/byteplus-sdk-golang/service/live/v20200801"
 )
 
 func Test_ListStorageSpaceDetail(t *testing.T) {

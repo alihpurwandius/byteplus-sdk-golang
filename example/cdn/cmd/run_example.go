@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/byteplus-sdk/byteplus-sdk-golang/example/cdn"
+	. "github.com/alihpurwandius/byteplus-sdk-golang/example/cdn"
 )
 
 type example struct {

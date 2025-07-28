@@ -1,9 +1,10 @@
 package billing
 
 import (
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/billing"
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/billing"
+	"github.com/stretchr/testify/assert"
 )
 
 func Test_ListSplitBillDetail(t *testing.T) {

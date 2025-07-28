@@ -4,7 +4,6 @@ go 1.14
 
 require (
 	github.com/avast/retry-go v3.0.0+incompatible
-	github.com/byteplus-sdk/byteplus-sdk-golang v1.0.53
 	github.com/google/go-querystring v1.1.0
 	github.com/google/uuid v1.3.0
 	github.com/pkg/errors v0.9.1

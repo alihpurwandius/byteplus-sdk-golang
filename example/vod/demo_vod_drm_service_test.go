@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/request"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/request"
 )
 
 func Test_GetThirdPartyDrmAuthToken(t *testing.T) {

@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/sms"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/sms"
 )
 
 type sendSmsTemplateParam struct {

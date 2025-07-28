@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/dns"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/dns"
 	"github.com/stretchr/testify/assert"
 )
 

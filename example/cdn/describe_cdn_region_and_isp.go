@@ -1,9 +1,10 @@
 package cdn
 
 import (
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/cdn"
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/cdn"
+	"github.com/stretchr/testify/assert"
 )
 
 func DescribeCdnRegionAndIsp(t *testing.T) {

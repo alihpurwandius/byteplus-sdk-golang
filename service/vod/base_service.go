@@ -17,16 +17,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/business"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/request"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/response"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/upload/consts"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/upload/model"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/business"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/request"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/response"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/upload/consts"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/upload/model"
 
 	"github.com/avast/retry-go"
 
-	model_base "github.com/byteplus-sdk/byteplus-sdk-golang/service/base/models/base"
+	model_base "github.com/alihpurwandius/byteplus-sdk-golang/service/base/models/base"
 
 	"google.golang.org/protobuf/encoding/protojson"
 )

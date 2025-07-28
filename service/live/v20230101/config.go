@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	common "github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	common "github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 const (

@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 type Vod struct {
