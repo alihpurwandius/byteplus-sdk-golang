@@ -1,7 +1,7 @@
 package livesaas
 
 import (
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 type GetTemporaryLoginTokenParam struct {

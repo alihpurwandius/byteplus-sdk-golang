@@ -3,11 +3,11 @@ package upload
 import (
 	"fmt"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/business"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/business"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/request"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/request"
 
 	"testing"
 )

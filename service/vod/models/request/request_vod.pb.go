@@ -10,7 +10,7 @@ import (
 	reflect "reflect"
 	sync "sync"
 
-	business "github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/business"
+	business "github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/business"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	wrapperspb "google.golang.org/protobuf/types/known/wrapperspb"

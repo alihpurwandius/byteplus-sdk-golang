@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"reflect"
 
-	common "github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	common "github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 type queryMarshalFilter func(key string, value []string) (accept bool)

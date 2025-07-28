@@ -14,8 +14,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/request"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/response"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/request"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/response"
 )
 
 // CreateSpace

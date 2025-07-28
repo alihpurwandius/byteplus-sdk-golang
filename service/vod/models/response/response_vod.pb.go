@@ -10,8 +10,8 @@ import (
 	reflect "reflect"
 	sync "sync"
 
-	base "github.com/byteplus-sdk/byteplus-sdk-golang/service/base/models/base"
-	business "github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/business"
+	base "github.com/alihpurwandius/byteplus-sdk-golang/service/base/models/base"
+	business "github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/business"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 )

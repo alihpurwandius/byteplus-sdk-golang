@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/cdn"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/cdn"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -18,4 +18,3 @@ func DescribeServiceTemplate(t *testing.T) {
 	assert.NoError(t, err)
 	assert.NotEmpty(t, resp.Result)
 }
-

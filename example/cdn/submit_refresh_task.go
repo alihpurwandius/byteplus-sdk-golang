@@ -2,9 +2,10 @@ package cdn
 
 import (
 	"fmt"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/cdn"
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/cdn"
+	"github.com/stretchr/testify/assert"
 )
 
 func SubmitRefreshTask(t *testing.T) {

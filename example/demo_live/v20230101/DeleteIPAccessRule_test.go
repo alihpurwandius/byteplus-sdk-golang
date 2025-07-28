@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/live/v20230101"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
+	live_v20230101 "github.com/alihpurwandius/byteplus-sdk-golang/service/live/v20230101"
 )
 
 func Test_DeleteIPAccessRule(t *testing.T) {

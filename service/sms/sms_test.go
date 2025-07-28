@@ -2,8 +2,9 @@ package sms
 
 import (
 	"encoding/json"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
 	"testing"
+
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 const (

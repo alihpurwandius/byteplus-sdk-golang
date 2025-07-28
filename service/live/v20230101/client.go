@@ -6,7 +6,7 @@ package live_v20230101
 import (
 	"fmt"
 
-	common "github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	common "github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 type Live struct {

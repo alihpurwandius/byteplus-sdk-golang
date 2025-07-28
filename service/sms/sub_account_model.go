@@ -1,7 +1,7 @@
 package sms
 
 import (
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 type GetSubAccountListRequest struct {

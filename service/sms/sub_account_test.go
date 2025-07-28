@@ -3,7 +3,7 @@ package sms
 import (
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 func TestGetSubAccountList(t *testing.T) {

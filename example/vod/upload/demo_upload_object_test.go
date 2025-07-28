@@ -3,11 +3,12 @@ package upload
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/business"
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/upload/functions"
 	"testing"
+
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/business"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/upload/functions"
 )
 
 func TestVod_UploadObjectWithCallback(t *testing.T) {

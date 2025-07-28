@@ -3,7 +3,7 @@ package rtc
 import (
 	"encoding/json"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 // CommonResponse ... need to decode result by type

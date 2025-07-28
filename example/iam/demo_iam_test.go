@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/iam"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/iam"
 )
 
 const (

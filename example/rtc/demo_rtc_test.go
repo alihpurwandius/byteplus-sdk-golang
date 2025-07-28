@@ -1,5 +1,5 @@
 // Description: Demonstrates how to use the OpenAPI authentication SDK
-// When using, please refer to the package github.com/byteplus-sdk/byteplus-sdk-golang/service/rtc or copy it to your own project to append the required API
+// When using, please refer to the package github.com/alihpurwandius/byteplus-sdk-golang/service/rtc or copy it to your own project to append the required API
 //
 // The service/rtc directory contains three files:
 // 1. config.go defines API properties, introduces signature packages and initializes services
@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/rtc"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/rtc"
 )
 
 const (

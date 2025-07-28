@@ -1,7 +1,7 @@
 package functions
 
 import (
-	"github.com/byteplus-sdk/byteplus-sdk-golang/service/vod/models/business"
+	"github.com/alihpurwandius/byteplus-sdk-golang/service/vod/models/business"
 )
 
 func GetMetaFunc() business.VodUploadFunction {

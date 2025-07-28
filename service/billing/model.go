@@ -1,8 +1,9 @@
 package billing
 
 import (
-	"github.com/byteplus-sdk/byteplus-sdk-golang/base"
 	"net/url"
+
+	"github.com/alihpurwandius/byteplus-sdk-golang/base"
 )
 
 type BillDetail struct {
